@@ -1,0 +1,3 @@
+interface drawable {
+    void draw();
+}

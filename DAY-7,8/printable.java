@@ -1,0 +1,5 @@
+interface printable 
+    {
+        void print();
+    }
+
